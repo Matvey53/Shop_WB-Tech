@@ -1,4 +1,4 @@
-# shop-WB_tech
+# Shop_WB-Tech
 
 REST API интернет-магазина на Django + DRF.
 
