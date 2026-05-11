@@ -6,8 +6,7 @@ __pycache__/
 # Virtual environments
 venv/
 .venv/
-env/
-ENV/
+
 
 # Django
 *.log
@@ -16,11 +15,6 @@ db.sqlite3
 db.sqlite3-journal
 media/
 staticfiles/
-
-# Environment files
-.env
-.env.*
-!.env.example
 
 # Test and coverage
 .pytest_cache/
