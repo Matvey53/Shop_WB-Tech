@@ -38,3 +38,18 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+## Запуск тестов
+
+### Через Docker
+
+```bash
+docker compose exec web python manage.py test
+```
+
+### Локально
+
+```bash
+python manage.py test
+```
+
+
